@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 <p align="center">
   
-  <img src="assets/images/1.png" width="200" />
+  <img src="assets/images/1.png" width="700" />
 </p>
 
 
@@ -14,6 +14,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 <p align="center">
   
-  <img src="assets/images/2.png" width="200" />
+  <img src="assets/images/2.png" width="700" />
 </p>
 # frontend-test
